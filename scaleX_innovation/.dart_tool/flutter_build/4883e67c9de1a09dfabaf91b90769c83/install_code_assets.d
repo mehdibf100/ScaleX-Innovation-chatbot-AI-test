@@ -1,0 +1,1 @@
+ C:\\Users\\ThinkPad\\flutter_projects\\scaleX_innovation\\.dart_tool\\flutter_build\\4883e67c9de1a09dfabaf91b90769c83\\native_assets.json: 

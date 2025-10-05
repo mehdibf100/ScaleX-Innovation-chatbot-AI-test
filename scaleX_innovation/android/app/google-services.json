@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709898173021",
+    "project_id": "scalex-innovation-test",
+    "storage_bucket": "scalex-innovation-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709898173021:android:40b5c8347f1332620cebb4",
+        "android_client_info": {
+          "package_name": "com.example.scalex_innovation_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709898173021-ikouj5srj4rsmm3lie0ceknov3pts27n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scalex_innovation_test",
+            "certificate_hash": "5e2e728aecab3b48a3c0d1241f0a2a759b8f0807"
+          }
+        },
+        {
+          "client_id": "709898173021-b79j3ju4f2mddjsgm28l8q0g1lo3kgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7gQemqCl2qAb4BzjWSAG6E0C5ONafSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709898173021-b79j3ju4f2mddjsgm28l8q0g1lo3kgr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
